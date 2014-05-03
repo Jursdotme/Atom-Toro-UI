@@ -1,6 +1,6 @@
-# Atom Dark UI theme
+# Atom Toro UI theme
 
-Default dark UI theme for Atom.
+Elegant and functional theme.
 
 For best result use with Toro Syntax theme.
 
