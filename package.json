@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Toro theme for interface components",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/Jursdotme/Atom-Toro-UI",
   "engines": {
     "atom": ">0.92.0"
   }
